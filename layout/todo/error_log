@@ -1,0 +1,45 @@
+[20-May-2015 00:18:21 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php:138) in /home/uskcorpi/public_html/datamanagement/layout/todo/create.php on line 46
+[20-May-2015 00:19:33 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php:138) in /home/uskcorpi/public_html/datamanagement/layout/todo/create.php on line 46
+[29-May-2015 15:48:46 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php:152) in /home/uskcorpi/public_html/datamanagement/layout/todo/create.php on line 46
+[29-May-2015 15:49:08 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php:152) in /home/uskcorpi/public_html/datamanagement/layout/todo/create.php on line 46
+[29-May-2015 15:49:12 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php:152) in /home/uskcorpi/public_html/datamanagement/layout/todo/create.php on line 46
+[29-May-2015 15:53:14 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php:152) in /home/uskcorpi/public_html/datamanagement/layout/todo/create.php on line 46
+[29-May-2015 15:53:26 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php:152) in /home/uskcorpi/public_html/datamanagement/layout/todo/create.php on line 46
+[01-Jun-2015 17:30:07 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php:152) in /home/uskcorpi/public_html/datamanagement/layout/todo/create.php on line 46
+[01-Jun-2015 18:19:49 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php:154) in /home/uskcorpi/public_html/datamanagement/layout/todo/create.php on line 49
+[01-Jun-2015 18:40:45 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`uskcorpi_dm_tool_test`.`todo`, CONSTRAINT `todo_employee_fk` FOREIGN KEY (`assigned_to`) REFERENCES `employee` (`id`))' in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php:95
+Stack trace:
+#0 /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php(95): PDOStatement->execute(Array)
+#1 /home/uskcorpi/public_html/datamanagement/layout/todo/create.php(47): GlobalCrud::setData('todoInsert', Array)
+#2 {main}
+  thrown in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 95
+[01-Jun-2015 19:28:34 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`uskcorpi_dm_tool_test`.`todo`, CONSTRAINT `todo_employee_fk` FOREIGN KEY (`assigned_to`) REFERENCES `employee` (`id`))' in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php:95
+Stack trace:
+#0 /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php(95): PDOStatement->execute(Array)
+#1 /home/uskcorpi/public_html/datamanagement/layout/todo/create.php(47): GlobalCrud::setData('todoInsert', Array)
+#2 {main}
+  thrown in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 95
+[01-Jun-2015 19:28:44 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`uskcorpi_dm_tool_test`.`todo`, CONSTRAINT `todo_employee_fk` FOREIGN KEY (`assigned_to`) REFERENCES `employee` (`id`))' in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php:95
+Stack trace:
+#0 /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php(95): PDOStatement->execute(Array)
+#1 /home/uskcorpi/public_html/datamanagement/layout/todo/create.php(47): GlobalCrud::setData('todoInsert', Array)
+#2 {main}
+  thrown in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 95
+[01-Jun-2015 19:28:57 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`uskcorpi_dm_tool_test`.`todo`, CONSTRAINT `todo_employee_fk` FOREIGN KEY (`assigned_to`) REFERENCES `employee` (`id`))' in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php:95
+Stack trace:
+#0 /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php(95): PDOStatement->execute(Array)
+#1 /home/uskcorpi/public_html/datamanagement/layout/todo/create.php(47): GlobalCrud::setData('todoInsert', Array)
+#2 {main}
+  thrown in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 95
+[01-Jun-2015 19:30:31 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`uskcorpi_dm_tool_test`.`todo`, CONSTRAINT `todo_employee_fk` FOREIGN KEY (`assigned_to`) REFERENCES `employee` (`id`))' in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php:95
+Stack trace:
+#0 /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php(95): PDOStatement->execute(Array)
+#1 /home/uskcorpi/public_html/datamanagement/layout/todo/create.php(47): GlobalCrud::setData('todoInsert', Array)
+#2 {main}
+  thrown in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 95
+[01-Jun-2015 19:33:30 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`uskcorpi_dm_tool_test`.`todo`, CONSTRAINT `todo_employee_fk` FOREIGN KEY (`assigned_to`) REFERENCES `employee` (`id`))' in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php:95
+Stack trace:
+#0 /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php(95): PDOStatement->execute(Array)
+#1 /home/uskcorpi/public_html/datamanagement/layout/todo/create.php(47): GlobalCrud::setData('todoInsert', Array)
+#2 {main}
+  thrown in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 95

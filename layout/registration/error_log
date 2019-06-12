@@ -1,0 +1,39 @@
+[29-May-2015 09:14:22 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php:95
+Stack trace:
+#0 /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php(95): PDOStatement->execute(Array)
+#1 /home/uskcorpi/public_html/datamanagement/layout/registration/create.php(60): GlobalCrud::setData('userInsert', Array)
+#2 {main}
+  thrown in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 95
+[29-May-2015 09:15:04 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php:95
+Stack trace:
+#0 /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php(95): PDOStatement->execute(Array)
+#1 /home/uskcorpi/public_html/datamanagement/layout/registration/create.php(60): GlobalCrud::setData('userInsert', Array)
+#2 {main}
+  thrown in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 95
+[29-May-2015 17:57:16 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php:95
+Stack trace:
+#0 /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php(95): PDOStatement->execute(Array)
+#1 /home/uskcorpi/public_html/datamanagement/layout/registration/create.php(60): GlobalCrud::setData('userInsert', Array)
+#2 {main}
+  thrown in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 95
+[24-Jun-2015 10:33:51 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php:95
+Stack trace:
+#0 /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php(95): PDOStatement->execute(Array)
+#1 /home/uskcorpi/public_html/datamanagement/layout/registration/create.php(60): GlobalCrud::setData('userInsert', Array)
+#2 {main}
+  thrown in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 95
+[01-Jul-2015 18:24:27 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php:95
+Stack trace:
+#0 /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php(95): PDOStatement->execute(Array)
+#1 /home/uskcorpi/public_html/datamanagement/layout/registration/create.php(60): GlobalCrud::setData('userInsert', Array)
+#2 {main}
+  thrown in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 95
+[21-Aug-2018 05:13:40 Etc/GMT] PHP Notice:  Undefined index: operation in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 10
+[21-Aug-2018 05:13:40 Etc/GMT] PHP Notice:  Undefined index: sql in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 11
+[21-Aug-2018 05:13:40 Etc/GMT] PHP Notice:  Undefined index: sqlValues in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 12
+[21-Aug-2018 05:14:16 Etc/GMT] PHP Notice:  Undefined index: operation in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 10
+[21-Aug-2018 05:14:16 Etc/GMT] PHP Notice:  Undefined index: sql in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 11
+[21-Aug-2018 05:14:16 Etc/GMT] PHP Notice:  Undefined index: sqlValues in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 12
+[30-Nov-2018 10:47:13 Etc/GMT] PHP Notice:  Undefined index: operation in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 10
+[30-Nov-2018 10:47:13 Etc/GMT] PHP Notice:  Undefined index: sql in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 11
+[30-Nov-2018 10:47:13 Etc/GMT] PHP Notice:  Undefined index: sqlValues in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 12

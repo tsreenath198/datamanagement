@@ -1,0 +1,108 @@
+[26-Jun-2015 12:18:36 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 2014 Cannot execute queries while other unbuffered queries are active.  Consider using PDOStatement::fetchAll().  Alternatively, if your code is only ever going to run against mysql, you may enable query buffering by setting the PDO::MYSQL_ATTR_USE_BUFFERED_QUERY attribute.' in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php:95
+Stack trace:
+#0 /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php(95): PDOStatement->execute(Array)
+#1 /home/uskcorpi/public_html/datamanagement/layout/batch/create.php(51): GlobalCrud::setData('batchInsert', Array)
+#2 {main}
+  thrown in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 95
+[26-Jun-2015 12:41:33 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 2014 Cannot execute queries while other unbuffered queries are active.  Consider using PDOStatement::fetchAll().  Alternatively, if your code is only ever going to run against mysql, you may enable query buffering by setting the PDO::MYSQL_ATTR_USE_BUFFERED_QUERY attribute.' in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php:95
+Stack trace:
+#0 /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php(95): PDOStatement->execute(Array)
+#1 /home/uskcorpi/public_html/datamanagement/layout/batch/create.php(51): GlobalCrud::setData('batchInsert', Array)
+#2 {main}
+  thrown in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 95
+[26-Jun-2015 12:53:02 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 2014 Cannot execute queries while other unbuffered queries are active.  Consider using PDOStatement::fetchAll().  Alternatively, if your code is only ever going to run against mysql, you may enable query buffering by setting the PDO::MYSQL_ATTR_USE_BUFFERED_QUERY attribute.' in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php:95
+Stack trace:
+#0 /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php(95): PDOStatement->execute(Array)
+#1 /home/uskcorpi/public_html/datamanagement/layout/batch/create.php(51): GlobalCrud::setData('batchInsert', Array)
+#2 {main}
+  thrown in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 95
+[26-Jun-2015 12:55:17 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 2014 Cannot execute queries while other unbuffered queries are active.  Consider using PDOStatement::fetchAll().  Alternatively, if your code is only ever going to run against mysql, you may enable query buffering by setting the PDO::MYSQL_ATTR_USE_BUFFERED_QUERY attribute.' in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php:95
+Stack trace:
+#0 /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php(95): PDOStatement->execute(Array)
+#1 /home/uskcorpi/public_html/datamanagement/layout/batch/create.php(51): GlobalCrud::setData('batchInsert', Array)
+#2 {main}
+  thrown in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 95
+[29-Jun-2015 12:37:42 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 2014 Cannot execute queries while other unbuffered queries are active.  Consider using PDOStatement::fetchAll().  Alternatively, if your code is only ever going to run against mysql, you may enable query buffering by setting the PDO::MYSQL_ATTR_USE_BUFFERED_QUERY attribute.' in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php:95
+Stack trace:
+#0 /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php(95): PDOStatement->execute(Array)
+#1 /home/uskcorpi/public_html/datamanagement/layout/batch/create.php(51): GlobalCrud::setData('batchInsert', Array)
+#2 {main}
+  thrown in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 95
+[29-Jun-2015 12:59:01 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 2014 Cannot execute queries while other unbuffered queries are active.  Consider using PDOStatement::fetchAll().  Alternatively, if your code is only ever going to run against mysql, you may enable query buffering by setting the PDO::MYSQL_ATTR_USE_BUFFERED_QUERY attribute.' in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php:95
+Stack trace:
+#0 /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php(95): PDOStatement->execute(Array)
+#1 /home/uskcorpi/public_html/datamanagement/layout/batch/create.php(51): GlobalCrud::setData('batchInsert', Array)
+#2 {main}
+  thrown in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 95
+[01-Jul-2015 18:29:47 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 2014 Cannot execute queries while other unbuffered queries are active.  Consider using PDOStatement::fetchAll().  Alternatively, if your code is only ever going to run against mysql, you may enable query buffering by setting the PDO::MYSQL_ATTR_USE_BUFFERED_QUERY attribute.' in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php:95
+Stack trace:
+#0 /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php(95): PDOStatement->execute(Array)
+#1 /home/uskcorpi/public_html/datamanagement/layout/batch/create.php(51): GlobalCrud::setData('batchInsert', Array)
+#2 {main}
+  thrown in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 95
+[07-Jul-2015 10:32:02 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 2014 Cannot execute queries while other unbuffered queries are active.  Consider using PDOStatement::fetchAll().  Alternatively, if your code is only ever going to run against mysql, you may enable query buffering by setting the PDO::MYSQL_ATTR_USE_BUFFERED_QUERY attribute.' in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php:95
+Stack trace:
+#0 /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php(95): PDOStatement->execute(Array)
+#1 /home/uskcorpi/public_html/datamanagement/layout/batch/create.php(51): GlobalCrud::setData('batchInsert', Array)
+#2 {main}
+  thrown in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 95
+[09-Aug-2018 10:16:58 Etc/GMT] PHP Notice:  Undefined index: operation in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 10
+[09-Aug-2018 10:16:58 Etc/GMT] PHP Notice:  Undefined index: sql in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 11
+[09-Aug-2018 10:16:58 Etc/GMT] PHP Notice:  Undefined index: sqlValues in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 12
+[10-Aug-2018 05:24:08 Etc/GMT] PHP Notice:  Undefined index: operation in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 10
+[10-Aug-2018 05:24:08 Etc/GMT] PHP Notice:  Undefined index: sql in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 11
+[10-Aug-2018 05:24:08 Etc/GMT] PHP Notice:  Undefined index: sqlValues in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 12
+[14-Aug-2018 01:36:48 Etc/GMT] PHP Notice:  Undefined index: operation in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 10
+[14-Aug-2018 01:36:48 Etc/GMT] PHP Notice:  Undefined index: sql in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 11
+[14-Aug-2018 01:36:48 Etc/GMT] PHP Notice:  Undefined index: sqlValues in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 12
+[14-Aug-2018 02:25:49 Etc/GMT] PHP Notice:  Undefined index: operation in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 10
+[14-Aug-2018 02:25:49 Etc/GMT] PHP Notice:  Undefined index: sql in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 11
+[14-Aug-2018 02:25:49 Etc/GMT] PHP Notice:  Undefined index: sqlValues in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 12
+[14-Aug-2018 02:26:00 Etc/GMT] PHP Notice:  Undefined index: operation in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 10
+[14-Aug-2018 02:26:00 Etc/GMT] PHP Notice:  Undefined index: sql in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 11
+[14-Aug-2018 02:26:00 Etc/GMT] PHP Notice:  Undefined index: sqlValues in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 12
+[14-Aug-2018 02:26:02 Etc/GMT] PHP Notice:  Undefined index: operation in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 10
+[14-Aug-2018 02:26:02 Etc/GMT] PHP Notice:  Undefined index: sql in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 11
+[14-Aug-2018 02:26:02 Etc/GMT] PHP Notice:  Undefined index: sqlValues in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 12
+[22-Sep-2018 02:16:00 Etc/GMT] PHP Notice:  Undefined index: operation in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 10
+[22-Sep-2018 02:16:00 Etc/GMT] PHP Notice:  Undefined index: sql in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 11
+[22-Sep-2018 02:16:00 Etc/GMT] PHP Notice:  Undefined index: sqlValues in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 12
+[25-Oct-2018 06:13:22 Etc/GMT] PHP Notice:  Undefined index: operation in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 10
+[25-Oct-2018 06:13:22 Etc/GMT] PHP Notice:  Undefined index: sql in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 11
+[25-Oct-2018 06:13:22 Etc/GMT] PHP Notice:  Undefined index: sqlValues in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 12
+[25-Oct-2018 06:13:25 Etc/GMT] PHP Notice:  Undefined index: operation in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 10
+[25-Oct-2018 06:13:25 Etc/GMT] PHP Notice:  Undefined index: sql in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 11
+[25-Oct-2018 06:13:25 Etc/GMT] PHP Notice:  Undefined index: sqlValues in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 12
+[08-Nov-2018 06:46:28 Etc/GMT] PHP Notice:  Undefined index: operation in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 10
+[08-Nov-2018 06:46:28 Etc/GMT] PHP Notice:  Undefined index: sql in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 11
+[08-Nov-2018 06:46:28 Etc/GMT] PHP Notice:  Undefined index: sqlValues in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 12
+[08-Nov-2018 06:53:47 Etc/GMT] PHP Notice:  Undefined index: operation in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 10
+[08-Nov-2018 06:53:47 Etc/GMT] PHP Notice:  Undefined index: sql in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 11
+[08-Nov-2018 06:53:47 Etc/GMT] PHP Notice:  Undefined index: sqlValues in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 12
+[07-Feb-2019 04:43:48 Etc/GMT] PHP Notice:  Undefined index: operation in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 10
+[07-Feb-2019 04:43:48 Etc/GMT] PHP Notice:  Undefined index: sql in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 11
+[07-Feb-2019 04:43:48 Etc/GMT] PHP Notice:  Undefined index: sqlValues in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 12
+[07-Feb-2019 04:44:18 Etc/GMT] PHP Notice:  Undefined index: operation in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 10
+[07-Feb-2019 04:44:18 Etc/GMT] PHP Notice:  Undefined index: sql in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 11
+[07-Feb-2019 04:44:18 Etc/GMT] PHP Notice:  Undefined index: sqlValues in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 12
+[02-Apr-2019 06:20:01 Etc/GMT] PHP Notice:  Undefined index: operation in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 10
+[02-Apr-2019 06:20:01 Etc/GMT] PHP Notice:  Undefined index: sql in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 11
+[02-Apr-2019 06:20:01 Etc/GMT] PHP Notice:  Undefined index: sqlValues in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 12
+[21-May-2019 05:33:11 Etc/GMT] PHP Notice:  Undefined index: operation in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 10
+[21-May-2019 05:33:11 Etc/GMT] PHP Notice:  Undefined index: sql in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 11
+[21-May-2019 05:33:11 Etc/GMT] PHP Notice:  Undefined index: sqlValues in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 12
+[30-May-2019 03:18:48 Etc/GMT] PHP Notice:  Undefined index: operation in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 10
+[30-May-2019 03:18:48 Etc/GMT] PHP Notice:  Undefined index: sql in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 11
+[30-May-2019 03:18:48 Etc/GMT] PHP Notice:  Undefined index: sqlValues in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 12
+[30-May-2019 03:19:06 Etc/GMT] PHP Notice:  Undefined index: operation in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 10
+[30-May-2019 03:19:06 Etc/GMT] PHP Notice:  Undefined index: sql in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 11
+[30-May-2019 03:19:06 Etc/GMT] PHP Notice:  Undefined index: sqlValues in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 12
+[04-Jun-2019 03:26:53 Etc/GMT] PHP Notice:  Undefined index: operation in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 10
+[04-Jun-2019 03:26:53 Etc/GMT] PHP Notice:  Undefined index: sql in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 11
+[04-Jun-2019 03:26:53 Etc/GMT] PHP Notice:  Undefined index: sqlValues in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 12
+[04-Jun-2019 03:27:31 Etc/GMT] PHP Notice:  Undefined index: operation in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 10
+[04-Jun-2019 03:27:31 Etc/GMT] PHP Notice:  Undefined index: sql in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 11
+[04-Jun-2019 03:27:31 Etc/GMT] PHP Notice:  Undefined index: sqlValues in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 12
+[11-Jun-2019 05:08:30 Etc/GMT] PHP Notice:  Undefined index: operation in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 10
+[11-Jun-2019 05:08:30 Etc/GMT] PHP Notice:  Undefined index: sql in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 11
+[11-Jun-2019 05:08:30 Etc/GMT] PHP Notice:  Undefined index: sqlValues in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 12

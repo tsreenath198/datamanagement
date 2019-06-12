@@ -1,0 +1,12 @@
+[28-Jun-2018 06:20:06 Etc/GMT] PHP Notice:  Undefined index: operation in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 10
+[28-Jun-2018 06:20:06 Etc/GMT] PHP Notice:  Undefined index: sql in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 11
+[28-Jun-2018 06:20:06 Etc/GMT] PHP Notice:  Undefined index: sqlValues in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 12
+[24-Aug-2018 02:42:15 Etc/GMT] PHP Notice:  Undefined index: operation in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 10
+[24-Aug-2018 02:42:15 Etc/GMT] PHP Notice:  Undefined index: sql in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 11
+[24-Aug-2018 02:42:15 Etc/GMT] PHP Notice:  Undefined index: sqlValues in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 12
+[24-Aug-2018 02:42:43 Etc/GMT] PHP Notice:  Undefined index: operation in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 10
+[24-Aug-2018 02:42:43 Etc/GMT] PHP Notice:  Undefined index: sql in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 11
+[24-Aug-2018 02:42:43 Etc/GMT] PHP Notice:  Undefined index: sqlValues in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 12
+[15-Oct-2018 08:08:07 Etc/GMT] PHP Notice:  Undefined index: operation in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 10
+[15-Oct-2018 08:08:07 Etc/GMT] PHP Notice:  Undefined index: sql in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 11
+[15-Oct-2018 08:08:07 Etc/GMT] PHP Notice:  Undefined index: sqlValues in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 12

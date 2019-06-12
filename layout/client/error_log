@@ -1,0 +1,96 @@
+[18-Mar-2015 16:13:31 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 178
+[18-Mar-2015 16:13:54 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 178
+[18-Mar-2015 16:29:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 178
+[20-Mar-2015 12:24:33 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 178
+[20-Mar-2015 18:40:46 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 178
+[26-Mar-2015 19:35:55 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 178
+[31-Mar-2015 10:34:40 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 178
+[01-Apr-2015 13:33:35 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php:74
+Stack trace:
+#0 /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php(74): PDOStatement->execute(Array)
+#1 /home/uskcorpi/public_html/datamanagement/layout/client/update.php(84): GlobalCrud::update('contactUpdate', Array)
+#2 {main}
+  thrown in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 74
+[01-Apr-2015 13:33:53 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php:74
+Stack trace:
+#0 /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php(74): PDOStatement->execute(Array)
+#1 /home/uskcorpi/public_html/datamanagement/layout/client/update.php(84): GlobalCrud::update('contactUpdate', Array)
+#2 {main}
+  thrown in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 74
+[01-Apr-2015 13:35:39 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[03-Apr-2015 18:26:33 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[07-Apr-2015 20:37:31 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[08-Apr-2015 12:04:05 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[08-Apr-2015 12:06:04 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[29-Apr-2015 10:51:53 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[07-May-2015 19:14:28 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[20-May-2015 20:46:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[21-May-2015 17:40:38 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[21-May-2015 17:41:14 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[16-Jun-2015 17:37:57 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[18-Jun-2015 19:54:57 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[07-Aug-2015 10:20:49 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[07-Aug-2015 10:22:13 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[12-Aug-2015 18:32:13 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[12-Aug-2015 18:33:35 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[31-Aug-2015 10:26:16 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[31-Aug-2015 10:27:51 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[31-Aug-2015 10:28:11 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[11-Sep-2015 11:55:09 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[23-Sep-2015 09:22:17 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[07-Oct-2015 19:07:42 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[07-Oct-2015 19:08:35 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[07-Oct-2015 19:29:34 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[08-Oct-2015 11:31:04 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[09-Oct-2015 12:01:41 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[09-Oct-2015 12:02:12 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[09-Oct-2015 16:39:07 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[20-Nov-2015 11:38:32 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[20-Nov-2015 19:30:55 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[04-Dec-2015 11:06:18 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[04-Dec-2015 19:43:27 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[04-Dec-2015 19:56:25 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[08-Dec-2015 18:04:44 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[10-Dec-2015 19:28:29 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[16-Feb-2016 16:29:14 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[17-Feb-2016 13:44:30 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[19-Feb-2016 10:15:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[08-Mar-2016 07:52:41 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[06-Apr-2016 12:03:57 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[27-May-2016 10:58:24] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[31-May-2016 18:34:35] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[17-Jun-2016 19:17:41] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[20-Jun-2016 20:00:53] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[26-Jul-2016 16:06:42] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[10-Aug-2016 09:54:24] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[18-Aug-2016 19:01:59] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[25-Nov-2016 10:14:05] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[26-Dec-2016 12:08:45] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[02-Jan-2017 10:25:17] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[17-Feb-2017 11:08:15] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[13-Mar-2019 08:10:53 Etc/GMT] PHP Notice:  Undefined index: operation in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 10
+[13-Mar-2019 08:10:53 Etc/GMT] PHP Notice:  Undefined index: sql in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 11
+[13-Mar-2019 08:10:53 Etc/GMT] PHP Notice:  Undefined index: sqlValues in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 12
+[13-Mar-2019 13:40:53 Asia/Kolkata] PHP Notice:  Undefined variable: dataContact in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[13-Mar-2019 13:40:53 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[13-Mar-2019 08:12:47 Etc/GMT] PHP Notice:  Undefined index: operation in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 10
+[13-Mar-2019 08:12:47 Etc/GMT] PHP Notice:  Undefined index: sql in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 11
+[13-Mar-2019 08:12:47 Etc/GMT] PHP Notice:  Undefined index: sqlValues in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 12
+[13-Mar-2019 13:42:47 Asia/Kolkata] PHP Notice:  Undefined variable: dataContact in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[13-Mar-2019 13:42:47 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[13-Mar-2019 08:14:07 Etc/GMT] PHP Notice:  Undefined index: operation in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 10
+[13-Mar-2019 08:14:07 Etc/GMT] PHP Notice:  Undefined index: sql in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 11
+[13-Mar-2019 08:14:07 Etc/GMT] PHP Notice:  Undefined index: sqlValues in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 12
+[13-Mar-2019 13:44:07 Asia/Kolkata] PHP Notice:  Undefined variable: dataContact in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[13-Mar-2019 13:44:07 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[30-Apr-2019 06:56:18 Etc/GMT] PHP Notice:  Undefined index: operation in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 10
+[30-Apr-2019 06:56:18 Etc/GMT] PHP Notice:  Undefined index: sql in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 11
+[30-Apr-2019 06:56:18 Etc/GMT] PHP Notice:  Undefined index: sqlValues in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 12
+[30-Apr-2019 06:57:49 Etc/GMT] PHP Notice:  Undefined index: operation in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 10
+[30-Apr-2019 06:57:49 Etc/GMT] PHP Notice:  Undefined index: sql in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 11
+[30-Apr-2019 06:57:49 Etc/GMT] PHP Notice:  Undefined index: sqlValues in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 12
+[30-Apr-2019 12:27:49 Asia/Kolkata] PHP Notice:  Undefined variable: dataContact in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[30-Apr-2019 12:27:49 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/uskcorpi/public_html/datamanagement/layout/client/update.php on line 186
+[30-Apr-2019 07:00:35 Etc/GMT] PHP Notice:  Undefined index: operation in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 10
+[30-Apr-2019 07:00:35 Etc/GMT] PHP Notice:  Undefined index: sql in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 11
+[30-Apr-2019 07:00:35 Etc/GMT] PHP Notice:  Undefined index: sqlValues in /home/uskcorpi/public_html/datamanagement/layout/connection/GlobalCrud.php on line 12
